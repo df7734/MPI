@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\asus\source\repos\mpi\mpi\main.cpp(7): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+c:\users\asus\source\repos\mpi\mpi\main.cpp(49): warning C4244: =: преобразование "double" в "unsigned long", возможна потеря данных
+c:\users\asus\source\repos\mpi\mpi\main.cpp(50): warning C4244: =: преобразование "double" в "unsigned long", возможна потеря данных
+  MPI.vcxproj -> C:\Users\Asus\source\repos\MPI\Debug\MPI.exe
